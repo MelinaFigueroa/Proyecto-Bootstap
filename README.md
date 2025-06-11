@@ -10,7 +10,9 @@ En esta práctica vas a construir una página web **completa**, responsiva y vis
 ## 📁 Estructura básica del proyecto
 
 mi-sitio-bootstrap/
+
 ├── index.html
+
 ├── styles.css # Estilos personalizados
 
 Solo necesitás un archivo `index.html` y también tu archivo `styles.css` para comenzar.
