@@ -11,8 +11,9 @@ En esta práctica vas a construir una página web **completa**, responsiva y vis
 
 mi-sitio-bootstrap/
 ├── index.html
+├── styles.css # Estilos personalizados
 
-Solo necesitás un archivo `index.html` para comenzar.
+Solo necesitás un archivo `index.html` y también tu archivo `styles.css` para comenzar.
 
 ---
 
